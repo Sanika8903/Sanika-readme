@@ -19,11 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanika8903&show_icons=true&locale=en" alt="sanika8903" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanika8903&" alt="sanika8903" /></p> target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanika8903&show_icons=true&locale=en&layout=compact" alt="sanika8903" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanika8903&show_icons=true&locale=en" alt="sanika8903" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanika8903&" alt="sanika8903" /></p>
-
